@@ -6,6 +6,6 @@ Currently at Amazon. Previously 12 years of enterprise consulting — shipped sy
 
 I like hard problems at the intersection of architecture and implementation. Most of my professional work lives behind corporate walls, but you'll find some side projects here — monitoring visualizers, practice tools, bots, and the occasional experiment.
 
-**Building with:** Java · Python · C# · TypeScript · AWS · mental illness
+**Building with:** Java · Python · C# · TypeScript · AWS · AI
 
 [LinkedIn](https://www.linkedin.com/in/randallkruse/) · randall.the.kruse@gmail.com
